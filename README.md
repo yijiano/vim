@@ -1,6 +1,3 @@
-# vim
-My vim setup. 
-
 # Windows
 
 Just copy the files manually.
