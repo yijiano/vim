@@ -2,7 +2,7 @@
 echo Configuring .vimrc and adding Molokai theme...
 
 # Import molokai.vim
-mkdir ~/.vim/colors
+mkdir -p ~/.vim/colors
 cp files/molokai.vim ~/.vim/colors/molokai.vim
 
 # Copy old .vimrc
