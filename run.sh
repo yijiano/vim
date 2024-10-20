@@ -3,12 +3,12 @@ echo Configuring .vimrc and adding Molokai theme...
 
 # Import molokai.vim
 mkdir ~/.vim/colors
-cp colors/molokai.vim ~/.vim/colors/molokai.vim
+cp files/molokai.vim ~/.vim/colors/molokai.vim
 
 # Copy old .vimrc
-cp ~/.vimrc .vimrc_old
+cp ~/.vimrc files/.vimrc_old
 
 # Replace old .vimrc with imported version
-cp .vimrc ~/.vimrc
+cp files/.vimrc ~/.vimrc
 
 echo Done!
