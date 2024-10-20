@@ -1,7 +1,13 @@
 # vim
 My vim setup. 
 
-(FOR LINUX ONLY) Run the following commands to get started:
+# Windows
+
+Just copy the files manually.
+
+# Unix (Linux, MacOS, etc)
+
+Run the following commands to get started:
 
 ```sh
 sudo chmod +x ./run.sh
