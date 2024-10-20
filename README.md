@@ -1,6 +1,6 @@
 # Windows
 
-Just copy the files manually.
+Just copy the respective files from the `file` directory manually.
 
 # Unix (Linux, MacOS, etc)
 
